@@ -5,7 +5,7 @@ Web project to act as a custom browser startpage.
 https://davidrela.github.io/pinkSP/
 
 ## Screenshots
-![windowSP Screenshot](/windowSPfiles/img/windowSPscreenshot.png?raw=true "")
+![pinkSP Screenshot](/pinkSPfiles/Screenshot.jpg?raw=true "")
 
 ## Installation
 1. Download "pinkSPfiles" folder.
